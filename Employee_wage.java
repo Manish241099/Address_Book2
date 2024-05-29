@@ -32,7 +32,7 @@ public class Employee_wage {
             }
             total_wage += emp_wage;
         }
-        System.out.println("Total wages of still condition is : ");
+        System.out.println("Total wages of still condition is: : ");
         return total_wage;
     }
 
